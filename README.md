@@ -9,7 +9,7 @@ We build a machine learning model to understand survival statistics of those who
 
 # Algorithms 
 The machine learning algorithms used in these projects are:
-## 1.Logistic regression for classification
-## 2. K Nearest Neighbours algorithm
+  1.Logistic regression for classification
+  2. K Nearest Neighbours algorithm
 
 
