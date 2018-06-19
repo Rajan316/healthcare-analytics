@@ -2,8 +2,8 @@
 The project aims at performing analytics on various medical databases.
 # Framingham case study
 We will build models using the Framingham data to predict and prevent heart disease. <br />
-The Framingham Heart Study was started in 1948 under the direction of the National Heart Institute (now known as the National Heart, Lung, and Blood Institute). Since 1971, the Study has been conducted in collaboration with Boston University. The initial study recruited 5,209 men and women between 30 and 62 years of age. Researchers asked participants questions about their general health, medications (including beta-blockers and cholesterol medications, aspirin, diuretics, and many other kinds of over-the-counter and prescription drugs), and asked about illnesses, including cancer. Since 1948, participants have been assessed every two years, undergoing a detailed medical history, physical examination and laboratory tests.<br />
-Patients were given questionnaire and exam every 2 years and were asked to write down:<br />
+The Framingham Heart Study was started in 1948 under the direction of the National Heart Institute (now known as the National Heart, Lung, and Blood Institute). The initial study recruited 5,209 men and women between 30 and 62 years of age. Researchers asked participants questions about their general health, medications and asked about illnesses, including cancer.<br />
+Patients were given a questionnaire and exam every 2 years and were asked to write down:<br />
 • Physical characteristics<br />
 • Behavioral characteristics<br />
 • Test results<br />
