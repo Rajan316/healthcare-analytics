@@ -93,5 +93,11 @@ The notebooks contain the following components: <br />
   5. Model data
   6. Evaluation of trained models using ROC curve
   
+# Libraries used:
+1. Pandas
+2. scikit-learn
+3. numpy
+4. Seaborn
+5. Matplotlib
 
 
