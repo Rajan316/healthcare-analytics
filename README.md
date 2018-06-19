@@ -11,7 +11,7 @@ We will build models using the Framingham data to predict and prevent heart dise
 |------|-------------------|
 |![alt-txt](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)|The project was conducted to analyse chance of heart attack of Germans|
 
-<table cellpadding="0" cellspacing="0" border="0">
+<table frame="void">
   <tr>
     <td>![alt-txt](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)</td>
     <td>The project was conducted to analyse chance of heart attack of Germans</td>
@@ -24,6 +24,24 @@ We will build models using the Framingham data to predict and prevent heart dise
 | cell11 | cell 12 | 
 | cell 21 | cell 22 |
 {table-plus}
+{table:border=0|cellpadding=0|cellspaceing=0|frame=void|rules=none}
+{tr}
+{th}header1{th}
+{th}header 2{th}
+{tr}
+{tr}
+{td}cell11 
+{td}
+{td}cell 12 
+{td}
+{tr}
+{tr}
+{td}cell 21 
+{td}
+{td}cell 22 
+{td}
+{tr}
+{table}
 
 
 Click ![here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
