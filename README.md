@@ -2,6 +2,8 @@
 The project aims at performing analytics on various medical databases.
 # Framingham case study
 We will build models using the Framingham data to predict and prevent heart disease. <br />
+
+![alt text](https://www.the-dermatologist.com/sites/default/files/issues/Screen%2BShot%2B2014-10-24%2Bat%2B5.57.37%2BPM.png)
 The Framingham Heart Study was started in 1948 under the direction of the National Heart Institute (now known as the National Heart, Lung, and Blood Institute). The initial study recruited 5,209 men and women between 30 and 62 years of age. Researchers asked participants questions about their general health, medications and asked about illnesses, including cancer.<br />
 Patients were given a questionnaire and exam every 2 years and were asked to write down:<br />
 • Physical characteristics<br />
@@ -9,7 +11,7 @@ Patients were given a questionnaire and exam every 2 years and were asked to wri
 • Test results<br />
 Exams and questions expanded over time.<br />
 ## Dataset description
-The dataset is a rather small subset of possible FHS dataset, having 4240 observations and 16 variables. <br />
+The dataset is a rather small subset of possible FHS dataset, having 4240 observations and 16 variables. <br />  The models are supposed to predict coronary heart disease(CHD) in ten years.
 
 Attributes:
 1. gender : the gender of the observations. The variable is a binary named “male” in the dataset.
