@@ -84,5 +84,14 @@ The machine learning algorithms used in these projects are:
   1. Logistic regression for classification<br />
   2. K Nearest Neighbours algorithm<br />
 
+# Machine learning Workflow
+The notebooks contain the following components: <br />
+  1. Data loading<br />
+  2. Data cleaning<br />
+  3. Missing data imputation<br />
+  4. Data Visualization
+  5. Model data
+  6. Evaluation of trained models using ROC curve
+  
 
 
