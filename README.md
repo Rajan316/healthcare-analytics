@@ -11,8 +11,8 @@ We will build models using the Framingham data to predict and prevent heart dise
 
 |Images|Project description|
 |------|-------------------|
-<img align="right" src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg">
-
+<img align="left" src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg">
+<text align="righ" shfush>
 <table border="void">
   <tr>
     <td>![alt-txt](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)</td>
