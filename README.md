@@ -3,7 +3,7 @@ The project aims at performing analytics on various medical databases.
 # Framingham case study
 We will build models using the Framingham data to predict and prevent heart disease. <br />
 
-![alt text](https://www.the-dermatologist.com/sites/default/files/issues/Screen%2BShot%2B2014-10-24%2Bat%2B5.57.37%2BPM.png)
+![alt text](https://www.the-dermatologist.com/sites/default/files/issues/Screen%2BShot%2B2014-10-24%2Bat%2B5.57.37%2BPM.png)<br />
 The Framingham Heart Study was started in 1948 under the direction of the National Heart Institute (now known as the National Heart, Lung, and Blood Institute). The initial study recruited 5,209 men and women between 30 and 62 years of age. Researchers asked participants questions about their general health, medications and asked about illnesses, including cancer.<br />
 Patients were given a questionnaire and exam every 2 years and were asked to write down:<br />
 • Physical characteristics<br />
@@ -34,7 +34,9 @@ Attributes:
 15. glucose: Blood glucose level (mg/dL)
 16. TenYearCHD : The 10 year risk of coronary heart disease(CHD).
 # Good health case Study
+
 We build a machine learning model using the Pima Indians Diabets dataset in order to predict whether a person has diabetes or not.<br />
+![alt text](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/type2_diabetes_rmq/493x335_type2_diabetes_rmq.jpg?resize=400px:*&output-quality=50)<br />
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.<br />
 
 ## Dataset description
@@ -50,7 +52,8 @@ Attributes:
 8. Age (years)
 
 # Hepatitis case Study
-We build a machine learning model to understand survival statistics of those who contract hepatitis.
+We build a machine learning model to understand survival statistics of those who contract hepatitis.<br />
+![alt text](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)
 
 ## Dataset description
 Attribute Information:
