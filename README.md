@@ -1,5 +1,9 @@
-# healthcare-analytics
+# Healthcare Analytics
 The project aims at performing analytics on various medical databases.
+
+
+Below are the projects that we have executed for this bootcamp:
+
 # Framingham case study
 We will build models using the Framingham data to predict and prevent heart disease. <br />
 
