@@ -19,7 +19,11 @@ We will build models using the Framingham data to predict and prevent heart dise
   </tr>
 
 </table>
-
+{table-plus:border=0|class=''}
+|| header1 || header 2 ||
+| cell11 | cell 12 | 
+| cell 21 | cell 22 |
+{table-plus}
 
 
 Click ![here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
