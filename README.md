@@ -11,7 +11,7 @@ We will build models using the Framingham data to predict and prevent heart dise
 |------|-------------------|
 |![alt-txt](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)|The project was conducted to analyse chance of heart attack of Germans|
 
-<table bordercolor=WHITE>
+<table cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td>![alt-txt](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)</td>
     <td>The project was conducted to analyse chance of heart attack of Germans</td>
