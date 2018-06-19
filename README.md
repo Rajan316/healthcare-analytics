@@ -4,9 +4,9 @@ The project aims at performing analytics on various medical databases.
 We will build models using the Framingham data to predict and prevent heart disease. <br />
 5,209 patients aged 30-59 were enrolled in the Framingham heart disease prediction Case study.<br />
 Patients were given questionnaire and exam every 2 years and were asked to write down:<br />
-• Physical characteristics
-• Behavioral characteristics
-• Test results
+• Physical characteristics<br />
+• Behavioral characteristics<br />
+• Test results<br />
 Exams and questions expanded over time.<br />
 
 # Good health case Study
