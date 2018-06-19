@@ -10,7 +10,11 @@ Patients were given questionnaire and exam every 2 years and were asked to write
 Exams and questions expanded over time.<br />
 
 # Good health case Study
-We build a machine learning model using the Pima Indians Diabets dataset in order to predict whether a person has diabetes or not.
+We build a machine learning model using the Pima Indians Diabets dataset in order to predict whether a person has diabetes or not.<br />
+This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.<br />
+
+## Dataset description
+The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.<br />
 
 # Hepatitis case Study
 We build a machine learning model to understand survival statistics of those who contract hepatitis.
