@@ -1,9 +1,17 @@
 # healthcare-analytics
 The project aims at performing analytics on various medical databases.
 # Framingham case study
-We build a machine learning model using the Framingham data to predict heart disease for any patient.
+We will build models using the Framingham data to predict and prevent heart disease. <br />
+5,209 patients aged 30-59 were enrolled in the Framingham heart disease prediction Case study.<br />
+Patients were given questionnaire and exam every 2 years and were asked to write down:<br />
+• Physical characteristics
+• Behavioral characteristics
+• Test results
+Exams and questions expanded over time.<br />
+
 # Good health case Study
 We build a machine learning model using the Pima Indians Diabets dataset in order to predict whether a person has diabetes or not.
+
 # Hepatitis case Study
 We build a machine learning model to understand survival statistics of those who contract hepatitis.
 
