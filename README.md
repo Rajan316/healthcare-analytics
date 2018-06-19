@@ -4,7 +4,7 @@ The project aims at performing analytics on various medical databases.
 
 Below are the projects that we have executed for this bootcamp:
 
-# ![alt text](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)Framingham case study
+# ![Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
 We will build models using the Framingham data to predict and prevent heart disease. <br />
 
 ![alt text](https://www.the-dermatologist.com/sites/default/files/issues/Screen%2BShot%2B2014-10-24%2Bat%2B5.57.37%2BPM.png)<br />
