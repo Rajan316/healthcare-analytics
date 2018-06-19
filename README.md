@@ -6,6 +6,9 @@ Below are the projects that we have executed for this bootcamp:
 
 # ![Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
 We will build models using the Framingham data to predict and prevent heart disease. <br />
+aa|bb|cc
+--|--|--
+ee|ff|gg 
 
 |Images|Project description|
 |------|-------------------|
