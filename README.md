@@ -11,7 +11,7 @@ We will build models using the Framingham data to predict and prevent heart dise
 fhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
  #### Click ![here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
-
+### More: \[[here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)\] to go to Framingham case study.
 # Hepatitis case Study
 We build a machine learning model to understand survival statistics of those who contract hepatitis.<br />
 ![alt text](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)
