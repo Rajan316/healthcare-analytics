@@ -27,7 +27,7 @@ The objective of the dataset is to diagnostically predict whether or not a patie
 
 ### 3. [Study on Hepatitis](https://github.com/Rajan316/healthcare-analytics/tree/master/Hepatitis)
 
-<img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="200px">
+<img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="250px">
 In this project, students will have a glimpse into how hepatitis data can be used to help understand survival statistics of those who contract hepatitis.<br />
 
 ##### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Hepatitis) to go to Hepatitis case study.
