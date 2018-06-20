@@ -22,7 +22,7 @@ We will build models using the Framingham data to predict and prevent heart dise
 
 </table>
 
-div class="container">
+<div class="container">
   <div class="row">
     <div class="col-md-6">
       <a href="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" class="thumbnail">
