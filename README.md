@@ -8,13 +8,23 @@ Over the course of the past decade the ability to translate data into insights h
 
 ### 1. [Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
 
-
-
 <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="150px">
-### The Framingham Heart Study (FHS) is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). We will build models using the Framingham data to predict and prevent heart disease. <br />
+The Framingham Heart Study (FHS) is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). We will build models using the Framingham data to predict and prevent heart disease. <br />
 
 ### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
 
+### 2. [Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
+
+<img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="150px">
+The Framingham Heart Study (FHS) is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). We will build models using the Framingham data to predict and prevent heart disease. <br />
+
+### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
+### 1. [Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
+
+<img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="150px">
+The Framingham Heart Study (FHS) is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). We will build models using the Framingham data to predict and prevent heart disease. <br />
+
+### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
 
 
 
