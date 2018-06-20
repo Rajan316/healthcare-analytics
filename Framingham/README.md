@@ -123,7 +123,9 @@ sns.distplot(framingham['age'], bins=15, kde=True)
 plt.ylabel('Count')
 plt.title('Agewise distribution of the patients')
 ```
-
+<p align="center">
+<img src="images/agewise_histogram.PNG" alt="neofetch" align="middle" >
+</p>
 ####  How does 10-year risk of Coronary Heart Disease affect patients age wise and gender wise?
 
 ```{python visualize}
@@ -160,6 +162,8 @@ plt.title('Scatterplot of systolic blood pressure vs age type coloured by people
 <img src="images/sysbp_agewise.PNG" alt="neofetch" align="middle" >
 </p>
 We can observe that as systolic blood pressure increases for each age group there is higher chance for CHD to develop after 10 years.
+
+### Model Training
 
 
 
