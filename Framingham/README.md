@@ -92,12 +92,21 @@ Steps:
 
 * Count the number of null values present in each column.
 <img src="images/null_values.PNG" alt="neofetch" align="middle" >
-* The columns having missing values are BPMeds, education, totChol, and glucose. All of them have less than 10% of missing values and thus they can be filled in with appropriate valuesusing the following user defined function:
+* All columns are having less than 10% of missing values and thus they can be filled in with appropriate values using the following user defined function:
 
 ```{python impute function}
 def impute_median(series):
     return series.fillna(series.median())
 ```
+* Few of the columns like BMI and cigsPerDay can be filled in using groupby by comparing values in columns interrelated to them.
+
+```{python impute function}
+by_currentSmoker_class=framingham.groupby(['currentSmoker'])
+framingham.cigsPerDay=by_currentSmoker_class['cigsPerDay'].transform(impute_median)
+by_age_class=framingham.groupby(['age','male','diabetes'])
+framingham.BMI=by_age_class['BMI'].transform(impute_median)
+```
+
 
 
 
