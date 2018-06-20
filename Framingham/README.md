@@ -107,9 +107,6 @@ def impute_median(series):
 This can be illustrated using a correlation plot. From this plot we can understand how some of the columns are correlated to each other thus using them in filling the missing values.
 <img src="images/corrplot.PNG" alt="neofetch" align="middle" >
 
-This helps in making a more informed guess about the missing values.
-
-Also, the correlation plot helps decide which columns need to be dropped from the dataset using the correlation plot. The column "education" has very leass correlation with other columns of the dataset and thus can be dropped in our future analysis.
 
 ```{python impute function}
 by_currentSmoker_class=framingham.groupby(['currentSmoker'])
@@ -117,6 +114,11 @@ framingham.cigsPerDay=by_currentSmoker_class['cigsPerDay'].transform(impute_medi
 by_age_class=framingham.groupby(['age','male','diabetes'])
 framingham.BMI=by_age_class['BMI'].transform(impute_median)
 ```
+
+This helps in making a more informed guess about the missing values.
+
+Also, the correlation plot helps decide which columns need to be dropped from the dataset using the correlation plot. The column "education" has very less correlation with other columns of the dataset and thus can be dropped in our future analysis.
+
 ### Data Visualization
 
 Let's dig into deep into the dataset through visualization conducted using packges seaborn and matplolib.
