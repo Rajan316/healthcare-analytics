@@ -236,7 +236,7 @@ Our aim is to be able to detect the risk of heart disease more precisely even if
 
 <img src="images/roc_curve_imbalanced.PNG" width="425"/> <img src="images/roc_curve_balanced.PNG" width="425"/> 
 <p align="left">
-<img src="images/roc_curve_area_imbalanced.PNG" width="350" hspace="60"/> <img src="images/roc_curve_area_balanced.PNG" width="350"/> 
+<img src="images/roc_curve_area_imbalanced.PNG" width="350" hspace="50"/> <img src="images/roc_curve_area_balanced.PNG" width="350"/> 
 </p>
 
 Now the model has drastically improved through a balanced Logistic regression model in capturing patients that were not being detected earlier as having a high risk for coronary heart disease in a span of 10 years. 
