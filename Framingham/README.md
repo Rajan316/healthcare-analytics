@@ -99,7 +99,12 @@ On futher inspection of the data we make two observations about the dataset:
 def impute_median(series):
     return series.fillna(series.median())
 ```
-* Few of the columns like BMI and cigsPerDay can be filled in using groupby by comparing values in columns directly related to them. This helps in making a more informed guess about the missing values.
+* Few of the columns like BMI and cigsPerDay can be filled in using groupby by comparing values in columns directly related to them.
+
+This can be illustrated using a correlation plot. From this plot we can understand how some of the columns are correlated to each other thus using them in filling the missing values.
+<img src="images/corrplot.PNG" alt="neofetch" align="middle" >
+
+This helps in making a more informed guess about the missing values.
 
 ```{python impute function}
 by_currentSmoker_class=framingham.groupby(['currentSmoker'])
@@ -110,6 +115,14 @@ framingham.BMI=by_age_class['BMI'].transform(impute_median)
 ### Data Visualization
 
 Let's dig into dee
+
+#### Let us understand the age distribution of patients in the dataset
+
+```{python visualize}
+sns.distplot(framingham['age'], bins=15, kde=True)
+plt.ylabel('Count')
+plt.title('Agewise distribution of the patients')
+```
 
 ####  How does 10-year risk of Coronary Heart Disease affect patients age wise and gender wise?
 
@@ -134,10 +147,19 @@ sns.barplot('prevalentStroke','diabetes', data=framingham,  hue="PersonType")
 <img src="images/stroke_diabetes_female.PNG" alt="neofetch" align="middle" >
 </p>
 
-We can observe that females have a higher cardiac risk when they are already diagonosed with stroke and diabetes and males have comparitively lower risks.
+We can observe that females have a higher cardiac risk when they are already diagonosed with stroke and diabetes whereas males have comparitively lower risks.
 
+#### How does systolic blood pressure affect the chances of CHD?
 
-
+```{python visualize}
+# As systolic blood pressure increases for each age group there is higher chance for CHD to develop after 10 years
+plt.figure(figsize=(10,5))
+sns.boxplot('AgeType','sysBP', data=framingham, hue="TenYearCHD")
+plt.title('Scatterplot of systolic blood pressure vs age type coloured by people who are at risk of CHD')
+```
+<p align="center">
+<img src="images/sysbp_agewise.PNG" alt="neofetch" align="middle" >
+</p>
 
 
 
