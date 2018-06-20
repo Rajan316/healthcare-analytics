@@ -12,8 +12,12 @@ Patients were given a questionnaire and exam every 2 years and were asked to wri
 Framingham case study aims to predict whether or not a patient has a risk of coronary heart disease within a span of 10 years. 
 
 ## Dataset description
+
 The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv
 
+A glimpse into the dataset is provided below:
+
+<img src="images/profile.PNG" alt="neofetch" align="middle" >
 
 We will investigate risk factors collected in the data collection for the study:.
   
@@ -232,6 +236,6 @@ Now the model has drastically improved through a balanced Logistic regression mo
 
 ## Future Scope
 
-The Framingham case study provides a foundation for research into clinical case studies related to occurence of heart disease which claims millions of lives every year. Machine learning models helps doctors identify patients who have chances of contracting one. This technique can be replicated for prevention of various other diseases thus savinga lot of lives. 
+The Framingham case study provides a foundation for research into clinical case studies related to occurence of heart disease which claims millions of lives every year. Machine learning models helps doctors identify patients who have chances of contracting one. This technique can be replicated for prevention of various other diseases thus saving a lot of lives. 
 
 
