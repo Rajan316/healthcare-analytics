@@ -13,6 +13,32 @@ Framingham case study aims to predict whether or not a patient has a risk of cor
 
 ## Dataset description
 The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. <br /> 
+The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv  
+More information about the data set used in this study can be found at: https://biolincc.nhlbi.nih.gov/static/studies/teaching/framdoc.pdf
+
+We will investigate risk factors collected in the first data collection for the study:.
+  
+* Demographic risk factors
+    * __male__: sex of patient
+    * __age__: age in years at first examination
+    * __education__: Some high school (1), high school/GED (2), college/vocational school (3), college (4)
+
+* Behavioral risk factors
+    * __currentSmoker__, __cigsPerDay__: Smoking behavior
+
+* Medical history risk factors
+    * __BPmeds__: On blood pressure medication at time of first examination
+    * __prevalentStroke__: Previously had a stroke
+    * __prevalentHyp__: Currently hypertensive
+    * __diabetes__: Currently has diabetes
+
+* Risk factors from first examination
+    * __totChol__: Total cholesterol (mg/dL)
+    * __sysBP__: Systolic blood pressure
+    * __diaBP__: Diastolic blood pressure
+    * __BMI__: Body Mass Index, weight (kg)/height (m) 2
+    * __heartRate__: Heart rate (beats/minute)
+    * __glucose__: Blood glucose level (mg/dL)
 
 ### Attributes:
 1. gender : the gender of the observations. The variable is a binary named “male” in the dataset.
@@ -57,6 +83,11 @@ The scientific computing packeges used in this project are:
 3. scikit-learn
 4. seaborn
 5. matplotlib
+
+
+
+
+
 
 
 
