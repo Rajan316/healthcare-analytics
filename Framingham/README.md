@@ -80,7 +80,7 @@ framingham = pd.read_csv('framingham.csv')
 framingham.head()
 ```
 <img src="images/dataset_head.jpg" alt="neofetch" align="middle" >
-<img src="images/dataset_head.jpg" alt="neofetch" align="middle" >
+<img src="images/profile.jpg" alt="neofetch" align="middle" >
 
 On futher inspection of the data we make two observations about the dataset:
 
