@@ -19,16 +19,16 @@ More information about the data set used in this study can be found at: https://
 We will investigate risk factors collected in the first data collection for the study:.
   
 * Demographic risk factors
-    * __male__: sex of patient
+    * __male__: Gender of patient. The variable is a binary named “male” in the dataset.
     * __age__: age in years at first examination
-    * __education__: Some high school (1), high school/GED (2), college/vocational school (3), college (4)
+    * __education__: A categorical variable of the participants education, with the levels: Some high school (1), high school/GED (2), college/vocational school (3), college (4)
 
 * Behavioral risk factors
     * __currentSmoker__, __cigsPerDay__: Smoking behavior
 
 * Medical history risk factors
     * __BPmeds__: On blood pressure medication at time of first examination
-    * __prevalentStroke__: Previously had a stroke
+    * __prevalentStroke__: Previously had a stroke (0 = free of disease)
     * __prevalentHyp__: Currently hypertensive
     * __diabetes__: Currently has diabetes
 
@@ -39,24 +39,9 @@ We will investigate risk factors collected in the first data collection for the 
     * __BMI__: Body Mass Index, weight (kg)/height (m) 2
     * __heartRate__: Heart rate (beats/minute)
     * __glucose__: Blood glucose level (mg/dL)
+    * __TenYearCHD__ : The 10 year risk of coronary heart disease(CHD).
+    
 
-### Attributes:
-1. gender : the gender of the observations. The variable is a binary named “male” in the dataset.
-2. age : Age at the time of medical examination in years.
-3. education : A categorical variable of the participants education, with the levels: Some high school (1), high school/GED (2), some college/vocational school (3), college (4)
-4. currentSmoker: Current cigarette smoking at the time of examinations
-5. cigsPerDay: Number of cigarettes smoked each day
-6. BPmeds: Use of Anti-hypertensive medication at exam
-7. prevalentStroke: Prevalent Stroke (0 = free of disease)
-8. prevalentHyp: Prevalent Hypertensive. Subject was defined as hypertensive if treated
-9. diabetes: Diabetic according to criteria of first exam treated
-10. totChol: Total cholesterol (mg/dL)
-11. sysBP: Systolic Blood Pressure (mmHg)
-12. diaBP: Diastolic blood pressure (mmHg)
-13. BMI: Body Mass Index, weight (kg)/height (m)^2
-14. heartRate: Heart rate (beats/minute)
-15. glucose: Blood glucose level (mg/dL)
-16. TenYearCHD : The 10 year risk of coronary heart disease(CHD).
 
 More information about the data set used in the study can be found at: https://biolincc.nhlbi.nih.gov/static/studies/teaching/framdoc.pdf
 
