@@ -225,7 +225,7 @@ Our aim is to be able to detect the risk of heart disease more precisely even if
 
 #### Compare between ROC curve of predicted probabilities of imbalanced vs balanced data
 
-<img src="images/roc_curve_imbalanced.PNG" width="425"/> <img src="images/roc_curve_balanced.PNG" width="425"/> 
+<img src="images/roc_curve_imbalanced.PNG" width="425"/> <img src="images/roc_curve_balanced.PNG" width="550"/> 
 <p align="left">
 <img src="images/roc_curve_area_imbalanced.PNG" width="300" hspace="80"/> <img src="images/roc_curve_area_balanced.PNG" width="300"/> 
 </p>
