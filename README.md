@@ -48,6 +48,29 @@ We will build models using the Framingham data to predict and prevent heart dise
     <%= link_to film[1], film[0] %> : <%= link_to "remind me", "#", :class => 'remind' %>
    </div>
   </div>
+  
+<div class="thumbnail right-caption span4">
+  <img src="http://placehold.it/120x160" alt="">
+  <div class="caption">
+    <h5>Thumbnail label</h5>
+    <p>Cras justo odio, dapibus ac facilisis in, egestas eget. Eget metus</p>
+    <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
+  </div>
+</div>
+
+.thumbnail.right-caption > img {
+    float: left;
+    margin-right: 9px;
+}
+
+.thumbnail.right-caption {
+    float: left;
+}
+
+.thumbnail.right-caption > .caption {
+    padding: 4px;
+}
+
 
 Click ![here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
 
