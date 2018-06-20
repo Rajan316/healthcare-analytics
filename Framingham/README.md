@@ -2,7 +2,7 @@
 <p align="center">
 <img src="http://ndnr.com/wp-content/uploads/bfi_thumb/38503356_ml-e1445553273517-mgz14315p8ywvcf2g5yspuqd5m4as6x6evu9uik8fs.jpg" alt="neofetch" align="middle" height="200px">
 </p>
-The Framingham Heart Study was started in 1948 under the direction of the National Heart Institute (now known as the National Heart, Lung, and Blood Institute). The initial study recruited 5,209 men and women between 30 and 62 years of age. Researchers asked participants questions about their general health, medications and asked about illnesses, including cancer.<br />
+The Framingham Heart Study was started in 1948 under the direction of the National Heart Institute. The initial study recruited 5,209 men and women between 30 and 62 years of age. Researchers asked participants questions about their general health, medications and asked about illnesses, including cancer.<br />
 Patients were given a questionnaire and exam every 2 years and were asked to write down:<br />
 • Physical characteristics<br />
 • Behavioral characteristics<br />
@@ -12,11 +12,10 @@ Patients were given a questionnaire and exam every 2 years and were asked to wri
 Framingham case study aims to predict whether or not a patient has a risk of coronary heart disease within a span of 10 years. 
 
 ## Dataset description
-The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. <br /> 
-The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv  <br />
-More information about the data set used in this study can be found at: https://biolincc.nhlbi.nih.gov/static/studies/teaching/framdoc.pdf
+The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv
 
-We will investigate risk factors collected in the first data collection for the study:.
+
+We will investigate risk factors collected in the data collection for the study:.
   
 * Demographic risk factors
     * __male__: Gender of patient. The variable is a binary named “male” in the dataset.
@@ -71,7 +70,7 @@ The scientific computing packeges used in this project are:
 
 ## The Analytical Approach
 
-### Data loading
+### Data Loading
 
 Read the dataset framingham
 ```{r load_data}
@@ -114,7 +113,7 @@ framingham.BMI=by_age_class['BMI'].transform(impute_median)
 ```
 ### Data Visualization
 
-Let's dig into deep into the dataset through visualization conucted using packges seaborn and matplolib.
+Let's dig into deep into the dataset through visualization conducted using packges seaborn and matplolib.
 
 #### Let us understand the age distribution of patients in the dataset
 
@@ -140,7 +139,7 @@ plt.title('Ten year CHD risk by age type');
 
 It is immediately evident that male patients over the age of 60 have a higher risk of developing cardiac disease in the next ten years as compared to other age groups. Doctors can thus prescribe appropriate exercise regimen or medications to the patients which will help prevent its sudden occurence.
 
-#### How does already having stroke and diabetes affect the chances of CHD?
+#### How does prevalent stroke and diabetes affect the chances of CHD?
 
 ```{python visualize}
 sns.barplot('prevalentStroke','diabetes', data=framingham,  hue="PersonType")
@@ -231,7 +230,7 @@ Our aim is to be able to detect the risk of heart disease more precisely even if
 
 Now the model has drastically improved through a balanced Logistic regression model in capturing patients that were not being detected earlier as having a high risk for coronary heart disease in a span of 10 years. 
 
-### Future Scope
+## Future Scope
 
 The Framingham case study provides a foundation for research into clinical case studies related to occurence of heart disease which claims millions of lives every year. Machine learning models helps doctors identify patients who have chances of contracting one. This technique can be replicated for prevention of various other diseases thus savinga lot of lives. 
 
