@@ -6,7 +6,7 @@ Over the course of the past decade the ability to translate data into insights h
 
 Below are the projects that we have executed for this bootcamp:
 
-# \[[Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)\]
+# \[Framingham case study (https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)\]
 We will build models using the Framingham data to predict and prevent heart disease. <br />
 
 <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="150px">
