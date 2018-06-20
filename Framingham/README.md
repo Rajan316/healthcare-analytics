@@ -113,10 +113,11 @@ Let's dig into dee
 
 ####  How does 10-year risk of Coronary Heart Disease affect patients age wise and gender wise?
 
+```{python visualize}
 mx = sns.factorplot(x="AgeType",y='TenYearCHD', hue='PersonType',data=framingham, kind="bar", size=6)
 mx.set(ylabel='Percentage of patients at a risk of having CHD after ten years')
 plt.title('Ten year CHD risk by age type');
-
+```
 
 
 
