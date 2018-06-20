@@ -118,9 +118,22 @@ mx = sns.factorplot(x="AgeType",y='TenYearCHD', hue='PersonType',data=framingham
 mx.set(ylabel='Percentage of patients at a risk of having CHD after ten years')
 plt.title('Ten year CHD risk by age type');
 ```
+
 <p align="center">
 <img src="images/gender_age.PNG" alt="neofetch" align="middle" >
 </p>
+
+It is immediately evident that male patients over the age of 60 have a higher risk of developing cardiac disease in the next ten years as compared to other age groups. Doctors can thus prescribe appropriate exercise regimen or medications to the patients which will help prevent its sudden occurence.
+
+#### How does already having stroke and diabetes affect the chances of CHD?
+
+```{python visualize}
+sns.barplot('prevalentStroke','diabetes', data=framingham,  hue="PersonType")
+```
+<p align="center">
+<img src="images/gender_age.PNG" alt="neofetch" align="middle" >
+</p>
+
 
 
 
