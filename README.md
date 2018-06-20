@@ -21,13 +21,14 @@ The Pima Indians long have intrigued researchers because they suffer from one of
 
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. <br />
 
+##### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/GoodHealth%20Code%20files) to go to Good Health case study
 
 
-### 1. [Hepatitis case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Hepatitis)
+### 3. [Study on Hepatitis](https://github.com/Rajan316/healthcare-analytics/tree/master/Hepatitis)
 
 <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="150px">
 The <a href="https://www.framinghamheartstudy.org/">Framingham Heart Study (FHS)</a> is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). <br />
 We will build models using the Framingham data to predict and prevent heart disease that contribute to cardiovascular disease (CVD). <br /> In this project students will have  aglimpse into how a dataset can help predict the future risk of a patient contracting cardiac disease through machine learning models.
 
-### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
+##### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Hepatitis) to go to Hepatitis case study.
 
