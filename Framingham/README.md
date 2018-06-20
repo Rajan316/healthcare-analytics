@@ -79,13 +79,19 @@ framingham = pd.read_csv('framingham.csv')
 # print the first 5 rows of data
 framingham.head()
 ```
-<img src="images/dataset_head.jpg" alt="neofetch" align="middle" >
 <img src="images/profile.PNG" alt="neofetch" align="middle" >
 
 On futher inspection of the data we make two observations about the dataset:
 
 * All columns contain data that lies in the usual range of values of each of the medical tests employed.
-* There are a few missing values in the data which have to be dealt with
+* There are a few missing values in the data which have to be dealt with.
+
+### Data Cleaning
+
+Steps:
+
+* Count the number of null values present in each column.
+<img src="images/null_values.PNG" alt="neofetch" align="middle" >
 
 
 
