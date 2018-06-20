@@ -17,7 +17,8 @@ The <a href="https://www.framinghamheartstudy.org/">Framingham Heart Study (FHS)
 ### 2. [Good Health case study](https://github.com/Rajan316/healthcare-analytics/tree/master/GoodHealth%20Code%20files)
 
 <img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/type2_diabetes_rmq/493x335_type2_diabetes_rmq.jpg" alt="neofetch" align="left" height="150px">
-The <We build a machine learning model using the Pima Indians Diabets dataset in order to predict whether a person has diabetes or not.<br />
+The Pima Indians long have intrigued researchers because they suffer from one of the highest rates of diabetes in the world. Studies have yet to pinpoint the reasons for the Pimas' poor health, but scientists suspect that it is a result both of genetic factors, which predispose the group to high rates of diabetes and obesity, and of environmental changes.
+
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. <br />
 
 
