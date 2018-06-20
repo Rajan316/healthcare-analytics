@@ -114,7 +114,7 @@ framingham.BMI=by_age_class['BMI'].transform(impute_median)
 ```
 ### Data Visualization
 
-Let's dig into dee
+Let's dig into deep into the dataset through visualization conucted using packges seaborn and matplolib.
 
 #### Let us understand the age distribution of patients in the dataset
 
@@ -164,6 +164,9 @@ plt.title('Scatterplot of systolic blood pressure vs age type coloured by people
 We can observe that as systolic blood pressure increases for each age group there is higher chance for CHD to develop after 10 years.
 
 ### Model Training
+
+Let us analyze the number of observations in the dataset that belog to each category as either having diabetes or not.
+
 
 
 
