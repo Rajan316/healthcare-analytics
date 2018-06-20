@@ -1,6 +1,6 @@
 # Framingham Case Study
 <p align="center">
-<img src="https://www.the-dermatologist.com/sites/default/files/issues/Screen%2BShot%2B2014-10-24%2Bat%2B5.57.37%2BPM.png" alt="neofetch" align="middle" height="200px">
+<img src="http://ndnr.com/wp-content/uploads/bfi_thumb/38503356_ml-e1445553273517-mgz14315p8ywvcf2g5yspuqd5m4as6x6evu9uik8fs.jpg" alt="neofetch" align="middle" height="200px">
 </p>
 The Framingham Heart Study was started in 1948 under the direction of the National Heart Institute (now known as the National Heart, Lung, and Blood Institute). The initial study recruited 5,209 men and women between 30 and 62 years of age. Researchers asked participants questions about their general health, medications and asked about illnesses, including cancer.<br />
 Patients were given a questionnaire and exam every 2 years and were asked to write down:<br />
