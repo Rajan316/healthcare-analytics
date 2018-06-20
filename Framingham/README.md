@@ -105,8 +105,10 @@ def impute_median(series):
 * Few of the columns like BMI and cigsPerDay can be filled in using groupby by comparing values in columns directly related to them.
 
 This can be illustrated using a correlation plot. From this plot we can understand how some of the columns are correlated to each other thus using them in filling the missing values.
-<img src="images/corrplot.PNG" alt="neofetch" align="middle" >
 
+<p align="center">
+<img src="images/corrplot.PNG" alt="neofetch" align="middle" >
+</p>
 
 ```{python impute function}
 by_currentSmoker_class=framingham.groupby(['currentSmoker'])
