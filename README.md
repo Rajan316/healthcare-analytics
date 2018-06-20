@@ -73,6 +73,8 @@ We will build models using the Framingham data to predict and prevent heart dise
 
 <h3 align="center"><img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="logo" height="100px"></h3>
 
+<img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="right" height="240px">
+
 
 
 Click ![here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
