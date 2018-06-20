@@ -32,6 +32,8 @@ The dataset is a small subset of possible FHS dataset, having 4240 observations 
 15. glucose: Blood glucose level (mg/dL)
 16. TenYearCHD : The 10 year risk of coronary heart disease(CHD).
 
+More information about the data set used in the study can be found at: https://biolincc.nhlbi.nih.gov/static/studies/teaching/framdoc.pdf
+
 ## Tools required
 
 - [Python](https://www.python.org/). Python 3 is the best option.
