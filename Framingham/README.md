@@ -11,7 +11,6 @@ Patients were given a questionnaire and exam every 2 years and were asked to wri
 ## Objective
 Framingham case study aims to predict whether or not a patient has a risk of coronary heart disease within a span of 10 years.
 
-
 ## Dataset description
 
 The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv
@@ -235,6 +234,9 @@ Our aim is to be able to detect the risk of heart disease more precisely even if
 </p>
 
 Now the model has drastically improved through a balanced Logistic regression model in capturing patients that were not being detected earlier as having a high risk for coronary heart disease in a span of 10 years. 
+
+##### Click [here](https://github.com/Rajan316/healthcare-analytics/blob/master/Framingham/Framingham.ipynb) to go to the notebook where the entire case study steps has been performed.
+
 
 ## Future Scope
 
