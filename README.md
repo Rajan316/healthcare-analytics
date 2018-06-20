@@ -27,7 +27,7 @@ We will build models using the Framingham data to predict and prevent heart dise
     <div class="col-md-6">
       <a href="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" class="thumbnail">
         <p>Pulpit Rock: A famous tourist attraction in Forsand, Ryfylke, Norway.</p>    
-        <img src="pulpitrock.jpg" alt="Pulpit Rock" width="284" height="213">
+        <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="Pulpit Rock" width="284" height="213">
       </a>
     </div>
     <div class="col-md-6">
