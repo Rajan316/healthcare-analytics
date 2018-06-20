@@ -79,7 +79,7 @@ framingham = pd.read_csv('framingham.csv')
 # print the first 5 rows of data
 framingham.head()
 ```
-<img src="images/dataset_head.jpg" alt="neofetch" align="middle" height="200px">
+<img src="images/dataset_head.jpg" alt="neofetch" align="middle" height="150px">
 
 
 
