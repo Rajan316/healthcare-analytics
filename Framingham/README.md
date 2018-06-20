@@ -88,17 +88,18 @@ On futher inspection of the data we make two observations about the dataset:
 
 ### Data Cleaning
 
-Steps:
+#### Steps:
 
 * Count the number of null values present in each column.
 <img src="images/null_values.PNG" alt="neofetch" align="middle" >
+
 * All columns are having less than 10% of missing values and thus they can be filled in with appropriate values using the following user defined function:
 
 ```{python impute function}
 def impute_median(series):
     return series.fillna(series.median())
 ```
-* Few of the columns like BMI and cigsPerDay can be filled in using groupby by comparing values in columns interrelated to them.
+* Few of the columns like BMI and cigsPerDay can be filled in using groupby by comparing values in columns directly related to them. This helps in making a more informed guess about the missing values.
 
 ```{python impute function}
 by_currentSmoker_class=framingham.groupby(['currentSmoker'])
@@ -106,6 +107,15 @@ framingham.cigsPerDay=by_currentSmoker_class['cigsPerDay'].transform(impute_medi
 by_age_class=framingham.groupby(['age','male','diabetes'])
 framingham.BMI=by_age_class['BMI'].transform(impute_median)
 ```
+### Data Visualization
+
+Let's dig into dee
+
+####  How does 10-year risk of Coronary Heart Disease affect patients age wise and gender wise?
+
+mx = sns.factorplot(x="AgeType",y='TenYearCHD', hue='PersonType',data=framingham, kind="bar", size=6)
+mx.set(ylabel='Percentage of patients at a risk of having CHD after ten years')
+plt.title('Ten year CHD risk by age type');
 
 
 
