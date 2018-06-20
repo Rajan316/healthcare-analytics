@@ -8,7 +8,7 @@ Over the course of the past decade the ability to translate data into insights h
 
 ### 1. [Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
 
-<img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="150px">
+<img src="https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202018/Health/June/CR-HealthInlinehero-access-heart-attack-stroke-risk-0618.jpg" alt="neofetch" align="left" height="150px">
 The <a href="https://www.framinghamheartstudy.org/">Framingham Heart Study (FHS)</a> is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). <br />
 We will build models using the Framingham data to predict and prevent heart disease that contribute to cardiovascular disease (CVD). <br /> In this project students will have  aglimpse into how a dataset can help predict the future risk of a patient contracting cardiac disease through machine learning models.
 
