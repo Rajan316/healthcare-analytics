@@ -131,9 +131,10 @@ It is immediately evident that male patients over the age of 60 have a higher ri
 sns.barplot('prevalentStroke','diabetes', data=framingham,  hue="PersonType")
 ```
 <p align="center">
-<img src="images/gender_age.PNG" alt="neofetch" align="middle" >
+<img src="images/stroke_diabetes_female.PNG" alt="neofetch" align="middle" >
 </p>
 
+We can observe that females have a higher cardiac risk when they are already diagonosed with stroke and diabetes and males have comparitively lower risks.
 
 
 
