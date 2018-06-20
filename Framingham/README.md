@@ -9,7 +9,8 @@ Patients were given a questionnaire and exam every 2 years and were asked to wri
 • Test results<br />
 
 ## Objective
-Framingham case study aims to predict whether or not a patient has a risk of coronary heart disease within a span of 10 years. 
+Framingham case study aims to predict whether or not a patient has a risk of coronary heart disease within a span of 10 years.
+
 
 ## Dataset description
 
