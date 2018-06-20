@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://www.topbots.com/wp-content/uploads/2017/05/enlitic_global_healthcare_1600x700_web-1280x640.jpg" alt="neofetch" align="middle" height="250px">
 </p>
-Over the course of the past decade the ability to translate data into insights has quickly become a highly in-demand skill by all. This 6-day Healthcare Analytics bootcamp aims at extracting useful insights from the health care domain and also provides tools to enable analytics in the medical domain for ailments that are a frequent norm of this generation.
+Over the course of the past decade the ability to translate data into insights has quickly become a highly in-demand skill by all. The projects are part of a 6-day Healthcare Analytics bootcamp which mainly aims at extracting useful insights from the health care domain and also provides tools to enable analytics in the medical domain for ailments that are a frequent norm of this generation.
 
 ## Below are the projects that we have executed for this bootcamp:
 
