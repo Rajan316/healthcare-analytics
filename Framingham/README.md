@@ -152,7 +152,6 @@ We can observe that females have a higher cardiac risk when they are already dia
 #### How does systolic blood pressure affect the chances of CHD?
 
 ```{python visualize}
-# As systolic blood pressure increases for each age group there is higher chance for CHD to develop after 10 years
 plt.figure(figsize=(10,5))
 sns.boxplot('AgeType','sysBP', data=framingham, hue="TenYearCHD")
 plt.title('Scatterplot of systolic blood pressure vs age type coloured by people who are at risk of CHD')
@@ -160,7 +159,7 @@ plt.title('Scatterplot of systolic blood pressure vs age type coloured by people
 <p align="center">
 <img src="images/sysbp_agewise.PNG" alt="neofetch" align="middle" >
 </p>
-
+We can observe that as systolic blood pressure increases for each age group there is higher chance for CHD to develop after 10 years.
 
 
 
