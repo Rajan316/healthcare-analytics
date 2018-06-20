@@ -217,6 +217,9 @@ logreg.fit(X_train, y_train)
 # make class predictions for the testing set
 y_pred_class = logreg.predict(X_test)
 ```
+Compare between logistic regression of threshold 0.5 and threshold 
+
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
 
 
 
