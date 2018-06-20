@@ -7,15 +7,15 @@ Patients were given a questionnaire and exam every 2 years and were asked to wri
 • Physical characteristics<br />
 • Behavioral characteristics<br />
 • Test results<br />
-Exams and questions expanded over time.<br />
+
 ## Objective
 
 Framingham case study aims to predict whether or not a patient has a risk of coronary heart disease within a span of 10 years. 
 
 ## Dataset description
-The dataset is a rather small subset of possible FHS dataset, having 4240 observations and 16 variables. <br />  The models are supposed to predict coronary heart disease(CHD) in ten years.
+The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. <br /> 
 
-Attributes:
+### Attributes:
 1. gender : the gender of the observations. The variable is a binary named “male” in the dataset.
 2. age : Age at the time of medical examination in years.
 3. education : A categorical variable of the participants education, with the levels: Some high school (1), high school/GED (2), some college/vocational school (3), college (4)
