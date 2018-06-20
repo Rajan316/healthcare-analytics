@@ -32,7 +32,7 @@ The dataset is a small subset of possible FHS dataset, having 4240 observations 
 15. glucose: Blood glucose level (mg/dL)
 16. TenYearCHD : The 10 year risk of coronary heart disease(CHD).
 
-## Tools you'll need
+## Tools required
 
 - [Python](https://www.python.org/). Python 3 is the best option.
 - [IPython and the Jupyter Notebook](http://ipython.org/). (FKA IPython and IPython Notebook.)
@@ -42,8 +42,22 @@ The dataset is a small subset of possible FHS dataset, having 4240 observations 
 	- scikit-learn
 	- matplotlib
   
-## Installation
+## Installation of Python and packages
 
-You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.continuum.io/downloads). Anaconda is popular in Data Science and Machine Learning communities.
+Install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.continuum.io/downloads). 
+
+Anaconda is very popular amongst Data Science and Machine Learning communities.
+
+The scientific computing packeges used in this project are:
+
+1. numpy
+2. pandas
+3. scikit-learn
+4. seaborn
+5. matplotlib
+
+
+
+
 
 
