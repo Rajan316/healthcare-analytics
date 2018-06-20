@@ -9,7 +9,6 @@ Patients were given a questionnaire and exam every 2 years and were asked to wri
 • Test results<br />
 
 ## Objective
-
 Framingham case study aims to predict whether or not a patient has a risk of coronary heart disease within a span of 10 years. 
 
 ## Dataset description
@@ -32,3 +31,19 @@ The dataset is a small subset of possible FHS dataset, having 4240 observations 
 14. heartRate: Heart rate (beats/minute)
 15. glucose: Blood glucose level (mg/dL)
 16. TenYearCHD : The 10 year risk of coronary heart disease(CHD).
+
+## Tools you'll need
+
+- [Python](https://www.python.org/). Python 3 is the best option.
+- [IPython and the Jupyter Notebook](http://ipython.org/). (FKA IPython and IPython Notebook.)
+- Some scientific computing packages:
+	- numpy
+	- pandas
+	- scikit-learn
+	- matplotlib
+  
+## Installation
+
+You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.continuum.io/downloads). Anaconda is popular in Data Science and Machine Learning communities.
+
+
