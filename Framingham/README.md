@@ -166,7 +166,9 @@ We can observe that as systolic blood pressure increases for each age group ther
 ### Model Training
 
 Let us analyze the number of observations in the dataset that belog to each category as either having diabetes or not.
-
+<p align="center">
+<img src="images/imbalance.PNG" alt="neofetch" align="middle" >
+</p>
 
 
 
