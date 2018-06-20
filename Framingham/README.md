@@ -233,6 +233,6 @@ Now the model has drastically improved through a balanced Logistic regression mo
 
 ### Future Scope
 
-
+The Framingham case study provides a foundation for research into clinical case studies related to occurence of heart disease which claims millions of lives every year. Machine learning models helps doctors identify patients who have chances of contracting one. This technique can be replicated for prevention of various other diseases thus savinga lot of lives. 
 
 
