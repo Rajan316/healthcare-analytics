@@ -219,7 +219,7 @@ y_pred_class = logreg.predict(X_test)
 ```
 Compare between logistic regression of threshold 0.5 and threshold 
 
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
+![alt-text-1](images/roc_curve_imbalanced.PNG "title-1") ![alt-text-2](images/roc_curve_balanced.PNG "title-2")
 
 
 
