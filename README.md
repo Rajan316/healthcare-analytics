@@ -7,73 +7,7 @@ Below are the projects that we have executed for this bootcamp:
 # ![Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
 We will build models using the Framingham data to predict and prevent heart disease. <br />
 
-
-
-|Images|Project description|
-|------|-------------------|
-<img align="left" src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg">
-<text align="righ" shfush>
-<table border="void">
-  <tr>
-    <td>![alt-txt](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)</td>
-    <td>The project was conducted to analyse chance of heart attack of Germans</td>
-   
-  </tr>
-
-</table>
-
-<div class="container">
-  <div class="row">
-    <div class="col-md-6">
-      <a href="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" class="thumbnail">
-        <p>Pulpit Rock: A famous tourist attraction in Forsand, Ryfylke, Norway.</p>    
-        <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="Pulpit Rock" width="284" height="213">
-      </a>
-    </div>
-    <div class="col-md-6">
-      <div class="col-md-12">
-           A design specification provides explicit information about the requirements for a product and how the product is to be put together. It is the most traditional kind of specification, having been used historically in public contracting for buildings, highways, and other public works, and represents the kind of thinking in which architects and engineers have been trained.
-      </div>
-      <div class="col-md-12">
-               <a href="#" class="btn btn-primary">Download</a>
-               <a href="#" class="btn btn-info">Images</a>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="thumbnail clearfix">
-  <img src="http://placehold.it/180x200" class="pull-left">
-   <div class="caption" class="pull-right">
-    <%= link_to film[1], film[0] %> : <%= link_to "remind me", "#", :class => 'remind' %>
-   </div>
-  </div>
-  
-<div class="thumbnail right-caption span4">
-  <img src="http://placehold.it/120x160" alt="">
-  <div class="caption">
-    <h5>Thumbnail label</h5>
-    <p>Cras justo odio, dapibus ac facilisis in, egestas eget. Eget metus</p>
-    <p><a href="#" class="btn btn-primary">Action</a> <a href="#" class="btn">Action</a></p>
-  </div>
-</div>
-
-.thumbnail.right-caption > img {
-    float: left;
-    margin-right: 9px;
-}
-
-.thumbnail.right-caption {
-    float: left;
-}
-
-.thumbnail.right-caption > .caption {
-    padding: 4px;
-}
-
-<h3 align="center"><img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="logo" height="100px"></h3>
-
-<img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="left" height="240px">
+<img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="200px">
 fhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 
