@@ -217,7 +217,12 @@ logreg.fit(X_train, y_train)
 # make class predictions for the testing set
 y_pred_class = logreg.predict(X_test)
 ```
-#### 
+#### Compare confusion matrix between imbalanced vs balanced data
+
+Our aim is to be able to detect the risk of heart disease more precisely even if we have to compromise on the false positives. It is very crucial to reduce the false negatives obtained as a person's health is jeopardised once he is wrongly identified as healthy when in actual he is sick. 
+
+<img src="images/conf_imbalanced.PNG" width="425"/> <img src="images/conf_balanced.PNG" width="425"/> 
+
 #### Compare between ROC curve of predicted probabilities of imbalanced vs balanced data
 
 <img src="images/roc_curve_imbalanced.PNG" width="425"/> <img src="images/roc_curve_balanced.PNG" width="425"/> 
