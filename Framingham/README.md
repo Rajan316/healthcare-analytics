@@ -220,8 +220,8 @@ y_pred_class = logreg.predict(X_test)
 #### Compare between logistic regression of imbalanced vs balanced data
 
 <img src="images/roc_curve_imbalanced.PNG" width="425"/> <img src="images/roc_curve_balanced.PNG" width="425"/> 
-<p align="left">
-<img src="images/roc_curve_area_imbalanced.PNG" width="300"/> <img src="images/roc_curve_area_balanced.PNG" width="300"/> 
+<p align="center">
+<img src="images/roc_curve_area_imbalanced.PNG" width="300" hspace="20"/> <img src="images/roc_curve_area_balanced.PNG" width="300"/> 
 </p>
 
 
