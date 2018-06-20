@@ -92,6 +92,12 @@ Steps:
 
 * Count the number of null values present in each column.
 <img src="images/null_values.PNG" alt="neofetch" align="middle" >
+* The columns having missing values are BPMeds, education, totChol, and glucose. All of them have less than 10% of missing values and thus they can be filled in with appropriate valuesusing the following user defined function:
+
+```def impute_median(series):
+    return series.fillna(series.median())
+```
+
 
 
 
