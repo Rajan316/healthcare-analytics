@@ -21,7 +21,9 @@ We will build models using the Framingham data to predict and prevent heart dise
   </tr>
 
 </table>
+
 {{% figure src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg#floatleft" caption="blah blah" %}}
+
 img[src$='#floatleft']
 {
 	float:left;
