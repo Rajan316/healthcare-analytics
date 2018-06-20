@@ -109,6 +109,8 @@ This can be illustrated using a correlation plot. From this plot we can understa
 
 This helps in making a more informed guess about the missing values.
 
+Also, the correlation plot helps decide which columns need to be dropped from the dataset using the correlation plot. The column "education" has very leass correlation with other columns of the dataset and thus can be dropped in our future analysis.
+
 ```{python impute function}
 by_currentSmoker_class=framingham.groupby(['currentSmoker'])
 framingham.cigsPerDay=by_currentSmoker_class['cigsPerDay'].transform(impute_median)
@@ -169,7 +171,7 @@ We can observe that as systolic blood pressure increases for each age group ther
 
 ### Model Training and Evaluation
 
-Analyze the number of observations in the dataset that belog to each category as either having a risk of develping CHD or not.
+Analyze the number of observations in the dataset that belong to each category as either having a risk of develping CHD or not.
 <p align="center">
 <img src="images/imbalance.png" alt="neofetch" >
 </p>
