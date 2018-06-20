@@ -22,19 +22,25 @@ We will build models using the Framingham data to predict and prevent heart dise
 
 </table>
 
-{{% figure src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg#floatleft" caption="blah blah" %}}
-
-img[src$='#floatleft']
-{
-	float:left;
-        //etc. etc/
-}
-
-img[src$='#floatright']
-{
-	float:right;
-       //etc. etc.
-}
+div class="container">
+  <div class="row">
+    <div class="col-md-6">
+      <a href="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" class="thumbnail">
+        <p>Pulpit Rock: A famous tourist attraction in Forsand, Ryfylke, Norway.</p>    
+        <img src="pulpitrock.jpg" alt="Pulpit Rock" width="284" height="213">
+      </a>
+    </div>
+    <div class="col-md-6">
+      <div class="col-md-12">
+           A design specification provides explicit information about the requirements for a product and how the product is to be put together. It is the most traditional kind of specification, having been used historically in public contracting for buildings, highways, and other public works, and represents the kind of thinking in which architects and engineers have been trained.
+      </div>
+      <div class="col-md-12">
+               <a href="#" class="btn btn-primary">Download</a>
+               <a href="#" class="btn btn-info">Images</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 Click ![here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
 
