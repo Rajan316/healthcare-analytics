@@ -1,6 +1,6 @@
 # Healthcare Analytics
 
-![alt text](https://goo.gl/images/UGVaVd)
+![alt text](https://www.topbots.com/wp-content/uploads/2017/05/enlitic_global_healthcare_1600x700_web-1280x640.jpg)
 Over the course of the past decade the ability to translate data into insights has quickly become a highly in-demand skill by all. This 6-day Healthcare Analytics bootcamp aims at extracting useful insights from the health care domain and also provides tools to enable analytics in the medical domain for ailments that are the frequent norm of this generation.
 
 Below are the projects that we have executed for this bootcamp:
