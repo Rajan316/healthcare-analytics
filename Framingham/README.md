@@ -221,7 +221,7 @@ y_pred_class = logreg.predict(X_test)
 
 Our aim is to be able to detect the risk of heart disease more precisely even if we have to compromise on the false positives. It is very crucial to reduce the false negatives obtained as a person's health is jeopardised once he is wrongly identified as healthy when in actual he is sick. 
 
-<img src="images/conf_imbalanced.PNG" width="425"/> <img src="images/conf_balanced.PNG" width="500"/> 
+<img src="images/conf_imbalanced.PNG" width="425"/> <img src="images/conf_balanced.PNG" width="450"/> 
 
 #### Compare between ROC curve of predicted probabilities of imbalanced vs balanced data
 
