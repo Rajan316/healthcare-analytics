@@ -118,7 +118,7 @@ mx = sns.factorplot(x="AgeType",y='TenYearCHD', hue='PersonType',data=framingham
 mx.set(ylabel='Percentage of patients at a risk of having CHD after ten years')
 plt.title('Ten year CHD risk by age type');
 ```
-
+<img src="images/gender_age.PNG" alt="neofetch" align="middle" >
 
 
 
