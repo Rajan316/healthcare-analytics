@@ -1,6 +1,7 @@
 # Healthcare Analytics
-The project aims at performing analytics on various medical databases.
 
+![alt text](https://goo.gl/images/UGVaVd)
+Over the course of the past decade the ability to translate data into insights has quickly become a highly in-demand skill by all. This 6-day Healthcare Analytics bootcamp aims at extracting useful insights from the health care domain and also provides tools to enable analytics in the medical domain for ailments that are the frequent norm of this generation.
 
 Below are the projects that we have executed for this bootcamp:
 
