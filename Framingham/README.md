@@ -221,7 +221,7 @@ y_pred_class = logreg.predict(X_test)
 
 <img src="images/roc_curve_imbalanced.PNG" width="425"/> <img src="images/roc_curve_balanced.PNG" width="425"/> 
 <p align="center">
-<img src="images/roc_curve_area_imbalanced.PNG" width="300" hspace="30"/> <img src="images/roc_curve_area_balanced.PNG" width="300"/> 
+<img src="images/roc_curve_area_imbalanced.PNG" width="300" hspace="60"/> <img src="images/roc_curve_area_balanced.PNG" width="300"/> 
 </p>
 
 
