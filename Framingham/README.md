@@ -17,7 +17,7 @@ The dataset is a small subset of possible FHS dataset, having 4240 observations 
 
 A glimpse into the dataset is provided below:
 
-<img src="images/profile.PNG" alt="neofetch" align="middle" >
+<img src="images/dataset_glimpse.PNG" alt="neofetch" >
 
 We will investigate risk factors collected in the data collection for the study:.
   
