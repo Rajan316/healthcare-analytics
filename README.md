@@ -9,9 +9,10 @@ We will build models using the Framingham data to predict and prevent heart dise
 
 <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="200px">
 fhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-
-
+ <br />
+ <br />
+ <br />
+  <br />
 Click ![here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
 
 # Hepatitis case Study
