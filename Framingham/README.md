@@ -129,6 +129,7 @@ plt.title('Agewise distribution of the patients')
 <p align="center">
 <img src="images/agewise_histogram.PNG" alt="neofetch" align="middle" >
 </p>
+
 ####  How does 10-year risk of Coronary Heart Disease affect patients age wise and gender wise?
 
 ```{python visualize}
