@@ -165,10 +165,58 @@ We can observe that as systolic blood pressure increases for each age group ther
 
 ### Model Training
 
-Let us analyze the number of observations in the dataset that belog to each category as either having diabetes or not.
+Analyze the number of observations in the dataset that belog to each category as either having a risk of develping CHD or not.
 <p align="center">
-<img src="images/imbalance.png" alt="neofetch" align="middle" >
+<img src="images/imbalance.png" alt="neofetch" >
 </p>
+This is a highly imbalanced dataset with only roughly 15% of the observations lying in the category of having a high risk of contracting a cardiac disease.
+
+##  Split the data into training and testing sets
+
+#### Steps:
+
+* Split data into train and test set.
+
+```{python model}
+X = framingham.drop(['TenYearCHD','education'],axis=1)
+y = framingham.TenYearCHD
+X_train, X_test, y_train, y_test = train_test_split(X,y,random_state=23)
+```
+* Train the algorithm on training data. 
+
+```{python model}
+logreg = LogisticRegression(C=0.8)
+logreg.fit(X_train, y_train)
+```
+* Evaluate trained model on unknown test data to understand model performance.
+
+```{python model}
+# make class predictions for the testing set
+y_pred_class = logreg.predict(X_test)
+# calculate accuracy with threshold of 0.5
+print(metrics.accuracy_score(y_test, y_pred_class))
+```
+The model accuracy on test data is 85.8%. 
+
+Due to an imbalanced dataset, let's compare with our baseline model 
+
+```{python model}
+# calculate null accuracy 
+y_test.value_counts().head(1) / len(y_test)
+```
+The null accuracy is 85.6%. Seems like there is just a slight improvement in accuracy from our original model and the baseline model.
+
+Accuracy is not an appropriate metric in this scenario. We employ ROC curve to further understand performance of our model on unknown data.
+Let us retrain our data using logistic regression this time using a parameter called 'balanced' which would handle imbalance in the data by changing the threshold set by logistic regression model:
+
+* Train the algorithm on training data. 
+
+```{python model}
+logreg = LogisticRegression(class_weight='balanced')
+logreg.fit(X_train, y_train)
+# make class predictions for the testing set
+y_pred_class = logreg.predict(X_test)
+```
 
 
 
