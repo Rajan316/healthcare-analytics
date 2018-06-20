@@ -8,10 +8,10 @@ Below are the projects that we have executed for this bootcamp:
 We will build models using the Framingham data to predict and prevent heart disease. <br />
 
 <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="150px">
-fhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+### fhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 
-### Click \[here(https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)\] to go to Framingham case study.
+### Click \[[here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)\] to go to Framingham case study.
 # Hepatitis case Study
 We build a machine learning model to understand survival statistics of those who contract hepatitis.<br />
 ![alt text](https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg)
