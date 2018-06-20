@@ -163,7 +163,7 @@ plt.title('Scatterplot of systolic blood pressure vs age type coloured by people
 </p>
 We can observe that as systolic blood pressure increases for each age group there is higher chance for CHD to develop after 10 years.
 
-### Model Training
+### Model Training and Evaluation
 
 Analyze the number of observations in the dataset that belog to each category as either having a risk of develping CHD or not.
 <p align="center">
@@ -171,7 +171,6 @@ Analyze the number of observations in the dataset that belog to each category as
 </p>
 This is a highly imbalanced dataset with only roughly 15% of the observations lying in the category of having a high risk of contracting a cardiac disease.
 
-##  Split the data into training and testing sets
 
 #### Steps:
 
@@ -204,12 +203,12 @@ Due to an imbalanced dataset, let's compare with our baseline model
 # calculate null accuracy 
 y_test.value_counts().head(1) / len(y_test)
 ```
-The null accuracy is 85.6%. Seems like there is just a slight improvement in accuracy from our original model and the baseline model.
+The null accuracy is 85.6%. There is only a slight improvement in accuracy for our model from the baseline model.
 
-Accuracy is not an appropriate metric in this scenario. We employ ROC curve to further understand performance of our model on unknown data.
+Accuracy is not an appropriate metric in this scenario. We employ ROC curve to further understand performance of our model on test data.
 Let us retrain our data using logistic regression this time using a parameter called 'balanced' which would handle imbalance in the data by changing the threshold set by logistic regression model:
 
-* Train the algorithm on training data. 
+* Retrain the algorithm on training data. 
 
 ```{python model}
 logreg = LogisticRegression(class_weight='balanced')
@@ -230,7 +229,9 @@ Our aim is to be able to detect the risk of heart disease more precisely even if
 <img src="images/roc_curve_area_imbalanced.PNG" width="300" hspace="80"/> <img src="images/roc_curve_area_balanced.PNG" width="300"/> 
 </p>
 
+Now the model has drastically improved through a balanced Logistic regression model in capturing patients that were not being detected earlier as having a high risk for coronary heart disease in a span of 10 years. 
 
+### Future Scope
 
 
 
