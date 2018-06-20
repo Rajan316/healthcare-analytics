@@ -13,7 +13,7 @@ Framingham case study aims to predict whether or not a patient has a risk of cor
 
 ## Dataset description
 The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. <br /> 
-The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv  
+The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv  <br />
 More information about the data set used in this study can be found at: https://biolincc.nhlbi.nih.gov/static/studies/teaching/framdoc.pdf
 
 We will investigate risk factors collected in the first data collection for the study:.
@@ -69,8 +69,16 @@ The scientific computing packeges used in this project are:
 4. seaborn
 5. matplotlib
 
+## The Analytical Approach
 
+### Data loading
 
+Read the dataset framingham
+```{r load_data}
+framingham = pd.read_csv('framingham.csv')
+# print the first 5 rows of data
+framingham.head()
+```
 
 
 
