@@ -9,7 +9,7 @@ Over the course of the past decade the ability to translate data into insights h
 ### 1. [Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
 
 <img src="https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202018/Health/June/CR-HealthInlinehero-access-heart-attack-stroke-risk-0618.jpg" alt="neofetch" align="left" height="150px">
-The <a href="https://www.framinghamheartstudy.org/">Framingham Heart Study (FHS)</a> is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). <br />
+The Framingham Heart Study (FHS) is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). <br />
  <br /> In this project, students will have a glimpse into how Framingham data can be used to help predict the future risk of a patient contracting cardiac disease through machine learning models.
 
 ##### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
