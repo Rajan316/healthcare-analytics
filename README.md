@@ -12,9 +12,9 @@ Over the course of the past decade the ability to translate data into insights h
 The Framingham Heart Study (FHS) is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). <br />
  <br /> In this project, students will have a glimpse into how Framingham data can be used to help predict the future risk of a patient contracting cardiac disease through machine learning models.
 
-##### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham) to go to Framingham case study.
+##### Click [here](./Framingham) to go to Framingham case study.
 
-### 2. [Good Health case study](https://github.com/Rajan316/healthcare-analytics/tree/master/GoodHealth%20Code%20files)
+### 2. [Good Health case study](./GoodHealth%20Code%20files)
 
 <img src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/quizzes/type2_diabetes_rmq/493x335_type2_diabetes_rmq.jpg" alt="neofetch" align="left" height="180px">
 The Pima Indians long have intrigued researchers because they suffer from one of the highest rates of diabetes in the world. 
@@ -22,13 +22,13 @@ Studies have yet to pinpoint the reasons for the Pimas' poor health, but scienti
 
 The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. <br />
 
-##### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/GoodHealth%20Code%20files) to go to Good Health case study
+##### Click [here](./GoodHealth%20Code%20files) to go to Good Health case study
 
 
-### 3. [Study on Hepatitis](https://github.com/Rajan316/healthcare-analytics/tree/master/Hepatitis)
+### 3. [Study on Hepatitis](./Hepatitis)
 
 <img src="https://www.news-medical.net/image.axd?picture=2017%2F9%2Fshutterstock_463602482.jpg" alt="neofetch" align="left" height="250px">
 In this project, students will have a glimpse into how hepatitis data can be used to help understand survival statistics of those who contract hepatitis.<br />
 
-##### Click [here](https://github.com/Rajan316/healthcare-analytics/tree/master/Hepatitis) to go to Hepatitis case study.
+##### Click [here](./Hepatitis) to go to Hepatitis case study.
 
