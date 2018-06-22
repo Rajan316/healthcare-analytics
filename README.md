@@ -6,7 +6,7 @@ Over the course of the past decade the ability to translate data into insights h
 
 ## Below are the projects that we have executed for this bootcamp:
 
-### 1. [Framingham case study](https://github.com/Rajan316/healthcare-analytics/tree/master/Framingham)
+### 1. [Framingham case study](./Framingham)
 
 <img src="https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202018/Health/June/CR-HealthInlinehero-access-heart-attack-stroke-risk-0618.jpg" alt="neofetch" align="left" height="150px">
 The Framingham Heart Study (FHS) is dedicated to identifying common factors or characteristics that contribute to cardiovascular disease (CVD). <br />
