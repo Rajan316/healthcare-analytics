@@ -241,7 +241,7 @@ Our aim is to be able to detect the risk of heart disease more precisely even if
 
 Now the model has drastically improved through a balanced Logistic regression model in capturing patients that were not being detected earlier as having a high risk for coronary heart disease in a span of 10 years. 
 
-##### Click [here](https://github.com/Rajan316/healthcare-analytics/blob/master/Framingham/Framingham.ipynb) to go to the notebook where the entire case study steps has been performed.
+##### Click [here](./Framingham.ipynb) to go to the notebook where the entire case study steps has been performed.
 
 
 ## Future Scope
