@@ -13,7 +13,8 @@ Framingham case study aims to predict whether or not a patient has a risk of cor
 
 ## Dataset description
 
-The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. The dataset was obtained from https://courses.edx.org/asset-v1:MITx+15.071x_2a+2T2015+type@asset+block/framingham.csv
+The dataset is a small subset of possible FHS dataset, having 4240 observations and 16 variables. The dataset was obtained from 
+https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
 
 A glimpse into the dataset is provided below:
 
