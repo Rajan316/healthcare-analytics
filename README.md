@@ -4,7 +4,7 @@
 </p>
 Over the course of the past decade the ability to translate data into insights has quickly become a highly in-demand skill by all. The projects mainly aims at extracting useful insights from the health care domain using Machine learning through Python programming. It provides tools to enable analytics in the medical domain for ailments that are a frequent norm of this generation.
 
-## Below are the projects that we have executed for this bootcamp:
+## Below are the projects that we have executed:
 
 ### 1. [Framingham case study](./Framingham)
 
