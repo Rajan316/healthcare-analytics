@@ -16,7 +16,7 @@ The Pima Indians Diabetes dataset is taken from Machine Learning Repository UCI:
 
 A glimpse into the dataset is provided below:
 
-<img src="images/dataset_glimpse.PNG" alt="neofetch" >
+<img src="images/dataset_glimpse.PNG" alt="neofetch" width="500px">
 
 We will investigate risk factors collected in the data collection for the study:.
   
@@ -64,18 +64,16 @@ The scientific computing packeges used in this project are:
 
 ### Data Loading
 
-Read the dataset framingham
+Read the dataset diabetes
 ```{r load_data}
-framingham = pd.read_csv('framingham.csv')
-# print the first 5 rows of data
-framingham.head()
+diabetes_data = pd.read_csv('diabetes-Copy1.csv')
 ```
 <img src="images/profile.PNG" alt="neofetch" align="middle" >
 
 On futher inspection of the data we make two observations about the dataset:
 
 * All columns contain data that lies in the usual range of values of each of the medical tests employed.
-* There are a few missing values in the data which have to be dealt with.
+* There are no missing values in the data.
 
 ### Data Cleaning
 
