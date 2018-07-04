@@ -3,6 +3,10 @@
 <img src="http://4.bp.blogspot.com/-gheEdiBxhkY/VpLmdiOmJaI/AAAAAAAAAi8/tHXPgHKKifQ/w1200-h630-p-k-no-nu/Pimas.jpg" alt="neofetch" align="middle" height="200px">
 </p>
 Pima Indians Diabetes study was originally conducted by the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of this study is to predict based on diagnostic measurements whether a patient has diabetes.
+Diabetes mellitus is one of the most serious health challenges facing American Natives in the United States today.
+Among more than 500 Native American tribal organizations, the Pima Indian, who now live in the southern Arizona,
+has been extensively studied for their high prevalence of type 2 diabetes1
+Different types of risk factors, for example specific genes, obesity, diet and other medical and lifestyle risk factors, have been suggested for explaining the high prevalence of diabetes in Pima Indians.
 
 Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.<br />
 
@@ -32,7 +36,7 @@ We will investigate risk factors collected in the data collection for the study:
     * __Age__: Age (years)
     * __Outcome__ : Class variable (0 or 1)
     
-
+The most interesting attribute used in the study is the Diabetes Pedigree Function. It provided some data on diabetes mellitus history in relatives and the genetic relationship of those relatives to the patient. This measure of genetic influence gives us an idea of the hereditary risk one might have with the onset of diabetes mellitus. 
 
 More information about the data set used in the study can be found at: https://biolincc.nhlbi.nih.gov/static/studies/teaching/framdoc.pdf
 
